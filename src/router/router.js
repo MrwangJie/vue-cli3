@@ -5,7 +5,7 @@ export default [
   // 命名视图
   // 重定向
   // 别名  alias: '/home_page',
-  // 编程式导航
+  // 编程式导航s
   {
     path: '/',
     name: 'home',
